@@ -2,7 +2,7 @@
 
 - Universidad ORT Uruguay
 - Ingeniería de Software Ágil 1 - 2024.
-- Profesores: Andres Galiana, Florencia Clerici.
+- Profesores: Andrés Galiana, Florencia Clerici.
 - Integrantes: Bruno Quadrelli, Franco Ribarov, Santiago Chemello, Yoana Aristimuño, Juan Foti, Ignacio Santalla.
 
 ## Introducción
@@ -28,7 +28,7 @@ Para el proyecto se siguió el marco de trabajo Scrum, el mismo es una metodolog
 
 # Scrum
 
-En las primeras iteraciones, aplicar este marco de trabajo no fue tan sencillo ni tan fructífero como en las últimas iteraciones, ya que no todos los integrantes del equipo tenían experiencia utilizando Scrum, sin embargo, con a medida que avanzaban las iteraciones, la comunicación del equipo y la correcta utilización de los artefactos como el Sprint Review, Sprint Retrospective y el feedback de las iteraciones se pudo comprender esta metodología aplicándola en la práctica de forma satisfactoria. Esto se puede ver claramente, en la disminución de la cantidad de Dailys Scrum entre la iteración 2 y 3.
+En las primeras iteraciones, aplicar este marco de trabajo no fue tan sencillo ni tan fructífero como en las últimas iteraciones, ya que no todos los integrantes del equipo tenían experiencia utilizando Scrum, sin embargo, a medida que avanzaban las iteraciones, la comunicación del equipo y la correcta utilización de los artefactos como el Sprint Review, Sprint Retrospective y el feedback de las iteraciones se pudo comprender esta metodología aplicándola en la práctica de forma satisfactoria. Esto se puede ver claramente, en la disminución de la cantidad de Dailys Scrum entre la iteración 2 y 3.
 
 ## Roles
 
@@ -48,14 +48,14 @@ En el transcurso de las iteraciones se realizaron todos los artefactos sugeridos
 
 Estas son reuniones breves de no más de 15 minutos, en las cuales el Scrum Team se pone al día sobre la situación en la que están respecto al desarrollo del producto y adaptan lo necesario para poder completar el trabajo. Estas se realizaron en Microsoft Teams. El objetivo de estas reuniones es responder las preguntas ¿Qué hice ayer? ¿Qué voy a hacer? ¿Algún bloqueante? Dado que nuestro proyecto no tuvo Dailys Scrum todos los días debido al tipo de desarrollo del mismo se cambió la primera pregunta por ¿En qué avancé desde la última Daily?
 
-Estas reuniones nos permitieron mantener una sincronización entre el Scrum Team, para poder cumplir el objetivo del Sprint en cada iteración, ya que nos permite saber a todos el estado de cada tarea de cada uno y en caso de precisar ayuda, se organiza otra reunión luego para brindarla.
+Estas reuniones nos permitieron mantener una sincronización entre el Scrum Team, para poder cumplir el objetivo del Sprint en cada iteración, ya que nos permite saber a todos el estado actual de la tarea que cada uno tiene asignada y en caso de precisar ayuda, se organiza otra reunión luego para brindarla.
 
 ## Sprint Planning
 
 Estas reuniones sucedieron al principio de cada Sprint y tuvieron el objetivo de responder las preguntas ¿Por qué es valioso este Sprint? ¿Qué se puede hacer en este Sprint?
 En cada Sprint Planning, el Product Owner indicaba los elementos del Product Backlog que le parecían pertinentes para cumplir con los objetivos de ese Sprint, luego los desarrollares se encargaban de discutir si se podría o no cumplir con esos ítems del Product Backlog para esa iteración.
 
-Luego de finalizada la Sprint Planning, se tenía un Product Backlog con el cual los desarrolladores trabajaran durante esa iteración.
+Luego de finalizada la Sprint Planning, se tenía un Product Backlog en el cual los desarrolladores trabajaron durante esa iteración.
 
 ## Sprint Review
 
